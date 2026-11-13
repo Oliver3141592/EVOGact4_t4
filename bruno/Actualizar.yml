@@ -1,0 +1,27 @@
+info:
+  name: Actualizar
+  type: http
+  seq: 6
+
+http:
+  method: PUT
+  url: "{{baseUrl}}/api/v1/students/4"
+  body:
+    type: json
+    data: |-
+      {
+        "firstName":"LuisModificado",
+        "lastName":"Perez",
+        "email":"luis@mail.com",
+        "description":"Alumno"
+      }
+  auth:
+    type: bearer
+    token: "{{token}}"
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
+  forwardAuthorizationHeader: false
