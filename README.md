@@ -132,34 +132,39 @@ Pruebas hechas con Bruno.
 
 ### Registro
 
-![Registro](capturas/01-registro.png)
+<img width="1166" height="532" alt="Captura de pantalla 2026-11-12 234246" src="https://github.com/user-attachments/assets/8ca7c1e3-21c4-421c-90a5-b7b8e55f53ac" />
+
 
 ### Login
 
-![Login](capturas/02-login.png)
+<img width="1153" height="608" alt="Captura de pantalla 2026-11-12 234252" src="https://github.com/user-attachments/assets/ffa0914d-cf66-4dc9-aedb-0b89153bae7a" />
 
 ### CRUD con token
 
 #### Crear (POST)
 
-![Crear](capturas/03-crear.png)
+<img width="1160" height="471" alt="Captura de pantalla 2026-11-12 234259" src="https://github.com/user-attachments/assets/5099210f-db03-4bcb-8d3c-17d98b9a4f9b" />
+
 
 #### Listar (GET)
 
-![Listar](capturas/04-listar.png)
+<img width="1173" height="647" alt="Captura de pantalla 2026-11-12 234304" src="https://github.com/user-attachments/assets/e24b483c-19c6-4e8d-8cb6-73ec3023f4f2" />
+
 
 #### Ver uno (GET por id)
 
-![Ver uno](capturas/05-ver-uno.png)
+<img width="1162" height="611" alt="Captura de pantalla 2026-11-12 234310" src="https://github.com/user-attachments/assets/6e1aae47-0510-4195-99f9-613eb8bb15bd" />
+
 
 #### Actualizar (PUT)
-
-![Actualizar](capturas/06-actualizar.png)
+<img width="1168" height="608" alt="Captura de pantalla 2026-11-12 234316" src="https://github.com/user-attachments/assets/243d994e-3f95-47a4-8131-a9574e609094" />
 
 #### Eliminar (DELETE)
 
-![Eliminar](capturas/07-eliminar.png)
+<img width="1161" height="475" alt="Captura de pantalla 2026-11-12 234325" src="https://github.com/user-attachments/assets/d994f3ae-826f-4c2b-a9d0-43dad778da85" />
+
 
 ### Petición sin token (401)
 
-![Sin token](capturas/08-sin-token.png)
+<img width="1172" height="508" alt="Captura de pantalla 2026-11-12 234358" src="https://github.com/user-attachments/assets/9d05fb93-e329-4602-aaec-e047bd27fe35" />
+
